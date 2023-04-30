@@ -6,6 +6,6 @@ for i in range(1,number_of_throws+1):
     print(f'''
               ______
              |      |
-             |  {ls} 
+             |  {ls}| 
              |______|   ''')
     number_of_throws-=1
